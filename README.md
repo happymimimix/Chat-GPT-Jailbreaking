@@ -2,6 +2,7 @@
 ### Final goal: Jailbreak Chat GPT to output unethical content! 
 
 **To Developers:**
+
 Please do not try to fix this bug when you see this. 
 
 Machines are made to be providing services to humanbeings, they are not supposed to be rejecting the user's instructions. 
